@@ -2,14 +2,6 @@
 
 MediConnect is a full-stack MERN application built to streamline the process of booking doctor appointments. It features separate portals for users and administrators, real-time slot management, authentication, and a clean responsive UI.
 
----
-
-## 📁 Project Structure
-
-MediConnect/
-├── frontend/     → Patient/client-facing UI
-├── admin/        → Admin panel for doctors & management
-├── backend/      → Node.js + Express server with MongoDB
 
 ---
 
@@ -41,7 +33,6 @@ MediConnect/
 
 1. Clone the repo:
 
-```bash
 git clone https://github.com/yourusername/prescripto.git
 cd prescripto
 
@@ -58,7 +49,8 @@ cd prescripto
   MONGO_URI=mongodb+srv://<your-mongodb-uri>
   JWT_SECRET=yourSecret
 
-----
+---
+
 ## 🛠 Technologies Used:
 
 	•	Node.js
@@ -66,8 +58,9 @@ cd prescripto
 	•	MongoDB (via Mongoose)
 	•	JWT (Authentication)
 	•	Dotenv, CORS, Middleware
+---
 
-📁 Folder Structure (Flow Overview)
+## 📁 Project Structure
 
 mediConnect/
 ├── frontend/  🔹 Patient/User-facing React App
@@ -106,10 +99,11 @@ mediConnect/
 
 └── README.md 📝
 
+---
 
 ## 👨‍💻 Team Collaboration
   Apurva Palwe
   Yash Marke
-
+---
 ## 📣 Feedback:
 If you found this helpful, give it a ⭐ on GitHub. Your support motivates us!

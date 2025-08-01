@@ -34,6 +34,7 @@ MediConnect is a full-stack MERN application built to streamline the process of 
 1. Clone the repo:
 
 git clone https://github.com/apurvapalwe/MediConnect.git
+
 cd MediConnect
 
 2.	Install dependencies:

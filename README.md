@@ -63,47 +63,32 @@ cd prescripto
 ## 📁 Project Structure
 
 mediConnect/
-├── frontend/  🔹 Patient/User-facing React App
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/ (Axios API calls)
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── vite.config.js
-│   └── tailwind.config.js
 
-├── admin/  🔹 Admin Panel React App
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── vite.config.js
-│   └── tailwind.config.js
+├── frontend/       # Patient-facing React app
 
-├── backend/  🔹 Node.js + Express API
-│   ├── config/ (e.g., DB connection)
-│   ├── controllers/ (logic for routes)
-│   ├── middleware/ (JWT, error handling)
-│   ├── models/ (Mongoose schemas)
-│   ├── routes/
-│   ├── utils/
-│   ├── .env
-│   ├── server.js
-│   └── package.json
+├── admin/          # Admin panel React app
 
-└── README.md 📝
+├── backend/        # Express server + MongoDB
+
+└── README.md       # Project overview
+
+Each folder contains:
+
+- frontend/admin:
+  - React + Vite + Tailwind setup
+  - Components, Pages, Services
+
+- backend:
+  - Controllers, Routes, Models
+  - Config, Middleware
+  - JWT Auth, MongoDB connection
+
 
 ---
 
 ## 👨‍💻 Team Collaboration
-  Apurva Palwe
-  Yash Marke
+  * Apurva Palwe
+  * Yash Marke
 ---
 ## 📣 Feedback:
 If you found this helpful, give it a ⭐ on GitHub. Your support motivates us!

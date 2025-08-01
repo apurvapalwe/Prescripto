@@ -1,1 +1,15 @@
 /node_modules
+
+
+# Ignore dependencies
+node_modules
+
+# Ignore env and builds
+.env
+.env.local
+build
+dist
+
+# Mac & log junk
+.DS_Store
+*.log

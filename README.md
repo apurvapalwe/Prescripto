@@ -33,8 +33,8 @@ MediConnect is a full-stack MERN application built to streamline the process of 
 
 1. Clone the repo:
 
-git clone https://github.com/yourusername/prescripto.git
-cd prescripto
+git clone https://github.com/apurvapalwe/MediConnect.git
+cd MediConnect
 
 2.	Install dependencies:
 
@@ -42,12 +42,6 @@ cd prescripto
   cd ../frontend && npm install
   cd ../admin && npm install
 
-3.	Set up environment:
-
-  Create a .env file in backend folder:
-  PORT=4000
-  MONGO_URI=mongodb+srv://<your-mongodb-uri>
-  JWT_SECRET=yourSecret
 
 ---
 

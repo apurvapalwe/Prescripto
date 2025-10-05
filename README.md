@@ -33,7 +33,7 @@ Priscripto is a full-stack MERN application built to streamline the process of b
 
 1. Clone the repo:
 
-git clone https://github.com/apurvapalwe/MediConnect.git
+git clone https://github.com/apurvapalwe/Prescripto.git
 
 cd MediConnect
 

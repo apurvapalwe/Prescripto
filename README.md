@@ -1,6 +1,6 @@
-# 💊 MediConnect – Full Stack Medical Appointment Platform
+# 💊 Priscripto – Full Stack Medical Appointment Platform
 
-MediConnect is a full-stack MERN application built to streamline the process of booking doctor appointments. It features separate portals for users and administrators, real-time slot management, authentication, and a clean responsive UI.
+Priscripto is a full-stack MERN application built to streamline the process of booking doctor appointments. It features separate portals for users and administrators, real-time slot management, authentication, and a clean responsive UI.
 
 
 ---
